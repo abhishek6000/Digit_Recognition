@@ -1,3 +1,3 @@
-# This is digit recognition of MNIST data from scratch. 
+# Digit Recognition from Scratch. 
 
-Artificial Neural Networks have been used and the model written from scratch without any machine learning library. Perceptrons are implemented as arrays. 
+Artificial Neural Networks have been used and the model written from scratch without any machine learning library. Perceptrons have been implemented as arrays. 
